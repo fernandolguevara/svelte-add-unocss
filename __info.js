@@ -2,7 +2,7 @@ export const name = "unocss";
 
 export const emoji = "1️⃣";
 
-export const usageMarkdown = ["You can use unocss utility classes like `bg-blue-700` in the markup (components, routes, `app.html`).", "You need to import unocss in your [page|component|__layout].svelte file ```js import 'uno.css';```"];
+export const usageMarkdown = ["You can use unocss utility classes like `bg-blue-700` in the markup (components, routes, `app.html`).", "You need to import unocss in your [page|component|__layout].svelte file ```import 'uno.css';```"];
 
 /** @type {import("../..").Gatekeep} */
 export const gatekeep = async () => {

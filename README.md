@@ -42,4 +42,4 @@ After the adder runs,
 
 - You can use unocss utility classes like `bg-blue-700` in the markup (components, routes, `app.html`).
 
-- You need to import unocss in your [page|component|__layout].svelte file ```js import 'uno.css';```
+- You need to import unocss in your [page|component|__layout].svelte file ```import 'uno.css';```
